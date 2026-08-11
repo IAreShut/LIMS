@@ -32,8 +32,8 @@ Sistem pengurusan logbook latihan industri berasaskan Laravel untuk pelajar dan 
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/IAreShut/Ipan.git
-cd Ipan
+git clone https://github.com/IAreShut/LIMS.git
+cd LIMS
 composer install
 npm install
 
@@ -159,7 +159,7 @@ CLIENT (Browser) ─── HTTPS ───▶ Laravel 12 Application ───�
 * **Server IP:** `40.80.80.249`
 * **SSH Login:** `ssh azureuser@40.80.80.249`
 
-#### Essential Docker Commands (Run inside `/var/www/Ipan`):
+#### Essential Docker Commands (Run inside `/var/www/LIMS`):
 
 ```bash
 # 🚀 Start / Build All Containers
@@ -203,7 +203,7 @@ sudo docker exec -it lims-app tail -f storage/logs/laravel.log
 ssh azureuser@40.80.80.249
 
 # 2. Pull latest code & restart app container:
-cd /var/www/Ipan
+cd /var/www/LIMS
 git pull origin main
 sudo docker compose restart app
 

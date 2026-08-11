@@ -20,7 +20,7 @@
     "devDependencies": {
         "concurrently": "^9.0.1"
     },
-    "name": "ipan",
+    "name": "lims",
     "version": "1.0.0",
     "description": "Logbook Internship Management System (LIMS)",
     "main": "vite.config.js",
@@ -29,13 +29,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IAreShut/Ipan.git"
+        "url": "git+https://github.com/IAreShut/LIMS.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/IAreShut/Ipan/issues"
+        "url": "https://github.com/IAreShut/LIMS/issues"
     },
-    "homepage": "https://github.com/IAreShut/Ipan#readme"
+    "homepage": "https://github.com/IAreShut/LIMS#readme"
 }
