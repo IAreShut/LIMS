@@ -1,6 +1,6 @@
 # LIMS — Logbook Internship Management System
 
-Sistem pengurusan logbook latihan industri berasaskan Laravel untuk pelajar dan penyelia.
+Logbook Internship Management System (LIMS) for Internship Student and Supervisor 
 
 ## System Overview
 
