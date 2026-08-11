@@ -24,3 +24,9 @@ Homestead.yaml
 Thumbs.db
 AGENTS.md
 Traceability-Requirements-Matrix.html
+
+# Agent & AI Tool Files
+/.gemini
+/.code-review-graph
+/.pdf_parser
+.clinerules
